@@ -3,9 +3,14 @@
 	"TrueSight":
 	[
 		{
-			"ConfigurePath":"Effects/1_ModeNative/effect.json",
+			"ConfigurePath":"Effects/1_ModeNative/effect_preview.json",
 			"Index":0,
-			"Mode":"All"
+			"Mode":"Preview"
+		},
+		{
+			"ConfigurePath":"Effects/1_ModeNative/effect_capture.json",
+			"Index":0,
+			"Mode":"Capture"
 		}
 	]
 }

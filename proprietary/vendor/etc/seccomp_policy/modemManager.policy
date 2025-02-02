@@ -62,4 +62,5 @@ getrlimit: 1
 setpriority: 1
 nanosleep: 1
 
+#added for get tid
 gettid: 1
