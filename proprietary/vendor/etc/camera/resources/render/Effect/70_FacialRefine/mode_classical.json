@@ -9,7 +9,7 @@
 		},
 		{
 			"ConfigurePath":"Effects/0_ModeClassical/effect_capture.json",
-			"Index":1,
+			"Index":0,
 			"Mode":"Capture"
 		}
 	]
